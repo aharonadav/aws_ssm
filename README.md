@@ -32,6 +32,7 @@ The script is compatible with:
 # S3
 Create a folder named "CloudHealthDistributor"
 Upload all your packages to s3://<BUCKETNAME>/CloudHealthDistributor
+* Files are located under "zip" folder.
 
 CloudHealthDistributor
 		    |-------- CloudHealthPackage_AMAZON.zip

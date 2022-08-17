@@ -28,17 +28,17 @@
     "files": {
       "CloudHealthPackage_AMAZON.zip": {
         "checksums": {
-          "sha256": "a1706df406ae69ccce80363546a601bf56b7634d600fa9ad8e3f8aa845b7f43f"
+          "sha256": "16c5bb223cfa3ecfcba5c6c5672c21bc722f0ed1006a8662bd6ed995ad47ffa3"
         }
       },
       "CloudHealthPackage_UBUNTU.zip": {
         "checksums": {
-          "sha256": "a1706df406ae69ccce80363546a601bf56b7634d600fa9ad8e3f8aa845b7f43f"
+          "sha256": "16c5bb223cfa3ecfcba5c6c5672c21bc722f0ed1006a8662bd6ed995ad47ffa3"
         }
       },
       "CloudHealthPackage_WINDOWS.zip": {
         "checksums": {
-          "sha256": "d0d7016d7334f38859cc8c230f98cb023c7cb2c6dc61cb0a32f0d48ba5fcd87b"
+          "sha256": "5bf582ba189ea7180fac898c6d82281f18f8b9ef6a30752f3170b9b5d613f159"
         }
       }      
     }
