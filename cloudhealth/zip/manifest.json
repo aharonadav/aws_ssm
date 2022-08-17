@@ -1,0 +1,45 @@
+{
+    "schemaVersion": "2.0",
+    "version": "1.0",
+    "publisher": "SSM-Cloudhealth",
+    "packages": {
+      "amazon": {
+        "_any": {
+          "x86_64": {
+            "file": "CloudHealthPackage_AMAZON.zip"
+          }
+        }
+      },
+      "ubuntu": {
+        "_any": {
+          "x86_64": {
+            "file": "CloudHealthPackage_UBUNTU.zip"
+          }
+        }
+      },
+      "windows": {
+        "_any": {
+          "x86_64": {
+            "file": "CloudHealthPackage_WINDOWS.zip"
+          }
+        }
+      }
+    },
+    "files": {
+      "CloudHealthPackage_AMAZON.zip": {
+        "checksums": {
+          "sha256": "16c5bb223cfa3ecfcba5c6c5672c21bc722f0ed1006a8662bd6ed995ad47ffa3"
+        }
+      },
+      "CloudHealthPackage_UBUNTU.zip": {
+        "checksums": {
+          "sha256": "16c5bb223cfa3ecfcba5c6c5672c21bc722f0ed1006a8662bd6ed995ad47ffa3"
+        }
+      },
+      "CloudHealthPackage_WINDOWS.zip": {
+        "checksums": {
+          "sha256": "5bf582ba189ea7180fac898c6d82281f18f8b9ef6a30752f3170b9b5d613f159"
+        }
+      }      
+    }
+  }
